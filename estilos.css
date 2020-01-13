@@ -1,0 +1,11 @@
+body {background-color: seagreen;}
+h1 {color: black;}
+
+p.blanco {color: white;
+    font-style: italic; }
+
+p.beige {color: beige; }
+
+p.naranja {color: orange; }
+
+p.rojo {color: firebrick; }
